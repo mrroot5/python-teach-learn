@@ -10,10 +10,5 @@ git checkout -b 0.1_hello-world_jhon-doe
 
 ## Start coding
 
-The objective of this exercise is to print a "Hello {something}" on your terminal.
-
-You must receive an input from the user and print the word "Hello" with the user input.
-For example:
-
-If the user introduces `Peter` then you should print `Hello Peter`.
-It does not matter if the user introduces a string, int, etc, just print it.
+From the version 0.1 now allow only string as user input, of course, if the user instroduces an int
+or other not allowed value, show a message explaining the error and how to use this script.
