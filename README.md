@@ -1,11 +1,11 @@
-# 0_hello-world
+# 0.1.1_hello-world
 
 The main topic of this branch is to practice with GitHub.
 
 ## Create your own branch
 
 ```shell
-git checkout -b 0.1_hello-world_jhon-doe
+git checkout -b 0.1.1_hello-world_jhon-doe
 ```
 
 ## Start coding
